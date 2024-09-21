@@ -9,7 +9,7 @@ customize:
     logo:
         width: 165
         height: 60
-        url: images/logo-header.png
+        url: image/me.jpg
     theme_color: '#006bde'
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
@@ -116,7 +116,6 @@ miscellaneous:
         fb_app_id:
         fb_admins:
         twitter_id:
-    links:
-        Hexo: http://hexo.io
+
 
 poweredby: true
