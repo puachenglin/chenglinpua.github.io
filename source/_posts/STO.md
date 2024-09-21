@@ -6,5 +6,4 @@ categories: MEP
 ---
 
 Imaging SrTiO3 with MEP (multi-slice electron ptychography),where oxygen atoms are clearly visualized.
-hi
 ![](/image/sto.png)
