@@ -1,4 +1,4 @@
-# Hexo Configuration
+i# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -7,7 +7,7 @@ title: Chenglin PUA's Blog
 subtitle: 'Pushing the Limit! Be an Interesting Soul'
 description: ''
 keywords:
-author: John Doe
+author: Chenglin Pua
 language: en
 timezone: ''
 
