@@ -7,8 +7,8 @@ menu:
 # Customize
 customize:
     logo:
-        width: 60
-        height: 165
+        width: 405
+        height: 530
         url: image/me.jpg
     theme_color: '#006bde'
     highlight: androidstudio
