@@ -4,7 +4,7 @@ date: 2024-09-20 17:24:59
 tags:
 categories: My Soul
 ---
-Name: Leonard Pua Cheng Lin (潘政麟)
+Name: Chenglin Pua (潘政麟, Nickname: Leonard)
 Birthplace: Malaysia
 Hobbies: My primary hobbies are reading and writing, which have been a source of joy and intellectual stimulation for me. I am also actively exploring new hobbies to broaden my interests and enrich my life.
 High School: Foon Yew
