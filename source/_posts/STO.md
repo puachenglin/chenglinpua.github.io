@@ -1,5 +1,5 @@
 ---
-title: SrTiO3
+title: MEP image of SrTiO3
 date: 2024-09-21 17:24:59
 tags:
 categories: MEP
