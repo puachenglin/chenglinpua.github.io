@@ -1,5 +1,5 @@
 ---
-title: MoS2
+title: Twisted Bilayer MoS2
 date: 2024-09-21 17:24:59
 tags:
 categories: ADF
