@@ -11,7 +11,7 @@ High School: Foon Yew
 Bachelor: Shanghai Jiao Tong University (SJTU)
 Master: Tsinghua University
 
-![](/image/me.png)
+![](/image/me.jpg)
 
 Current research interest: TEM methods development, especially MEP (multislice electron ptychography).
 Research Gate: https://www.researchgate.net/profile/Pua-Chenglin
